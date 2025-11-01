@@ -1,3 +1,14 @@
 -The Unity sprites can be very jittery in AR especially in cramped spaces.
 -Covering the screen for a period of time or moving too much recallibrates the camera
 -The camera needs to be moved around and the text has to change before it loads
+
+Shutdown Information
+October 30, 2025
+* 3:00 PM JST - target shutdown
+* around 3 PM JST - https://contents.ssv.xrc.docomo.ne.jp/xrcity/_isrunning_ still accessible
+* before 3:49 PM JST - ssv.xrc.docomo.ne.jp was made 503
+* after 3:49 PM JST - https://contents.ssv.xrc.docomo.ne.jp/xrcity/_isrunning_ was made inaccessible
+* 4:10 PM JST - https://contents.ssv.xrc.docomo.ne.jp/html/app/OPN005.html still accessible
+
+November 1, 2025
+* all servers are dead
