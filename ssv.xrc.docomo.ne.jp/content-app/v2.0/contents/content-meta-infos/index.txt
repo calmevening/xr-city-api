@@ -1,0 +1,2 @@
+content-meta-infos is also an api endpoint.
+API endpoint has dynamic content
